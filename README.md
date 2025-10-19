@@ -16,7 +16,7 @@ Este repositorio contiene un archivo html y un .gitignore, para practicar la cre
 
 ## Test
 
-En el siguiente apartado se incluirá la explicación de como ejecutar los test de integración o unitarios, cuando se realicen en el proyecto.
+Para asegurar que la página funciona se ha añadido un alert que nos avisa de que la página se ha cargado.
 
 ## Ejemplo de código
 
