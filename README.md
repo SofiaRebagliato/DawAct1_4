@@ -6,6 +6,8 @@ En esta práctica **DawAct1_4** aprenderemos algunas particularidades de _GitHub
 
 Este repositorio contiene un archivo html y un .gitignore, para practicar la creación de repositorios, la clonación de los mismos desde el IDE y la utilización de git.
 
+También se ha incluído un fichero de estilos css y un pequeño bloque de código con php para hacer un Hello World y probar desde el index.html la redirección a este código php con la utilización de GitHub Pages.
+
 ### Hipervínculo
 
 * [Plantilla Markdown](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
